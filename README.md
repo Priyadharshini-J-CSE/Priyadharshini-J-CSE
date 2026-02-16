@@ -45,8 +45,7 @@ A secure e-commerce web application developed with HTML, CSS, Django, Python, an
         <img  src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
          <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-          <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-          
+      
 
 </p>
 
@@ -72,7 +71,10 @@ A secure e-commerce web application developed with HTML, CSS, Django, Python, an
   <a href="mailto:priyadharshinijegatheesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/priyadharshini-jegatheesh-2b3698333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
  <a href="#">
+  <a href="https://resonant-biscuit-95f28e.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
 </a>
 
 </p>
